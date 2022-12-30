@@ -34,12 +34,4 @@ const InputField = ({ name, label, type, value, onChange, placeholder, options }
     )
 }
 
-const Test = () => {
-    return (
-        <div>
-            
-        </div>
-    )
-}
-
 export default InputField;
